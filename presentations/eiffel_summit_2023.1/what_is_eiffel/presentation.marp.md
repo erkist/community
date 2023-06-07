@@ -54,7 +54,9 @@ _class:
 
 # In this talk
 
-* ## TBW
+* ## Why does Eiffel exist?
+* ## What is Eiffel?
+* ## Why should I care?
 
 ---
 
@@ -64,29 +66,103 @@ _backgroundColor: #766
 
 ![bg contain](images/eiffel-logo.png)
 
-<!-- >>> Erik <<<
-
-Let's first look into what Eiffel is. 
+<!-- Let's first look into what Eiffel is. 
 -->
 
 ---
 
 # A common language
 
-<!-- Notes
+<!-- Eiffel provides a common language both for technical systems and people. This common language allows both people and systems to ues the same words and concepts to refer to the same things. We will go into some of these concepts a bit later, but first I want to talk about two benefits of having a common language.
 -->
 
 ---
 
 # Observability
 
-<!-- Notes
+<!-- The first benefit is observability. With complex software-centric systems there is often a need to have multiple tools and systems involved in the development flows, and having them all produce information in a common language makes it a lot easier to track, visualize and understand what is going in development, verification and release flows. Observability can help us answer several questions, including:
 -->
+
+---
+<!--
+_class:
+ - invert
+-->
+
+# Observability answers:
+
+* ## What have we built?
+* ## What changes are included?
+* ## How did we test the builds?
+* ## What is its quality?
+* ## **Are we ready to release?**
+
 
 ---
 
 # Interoperability
 
-<!-- Notes
+<!-- The second benefit of a common language is interoperability, as in making different tools and systems work better together. Flows are all about making things happen, and having a commmon language makes it easier not only to 
 -->
 
+---
+
+# Why should I care?
+
+<!-- ...
+-->
+
+---
+
+# Because Eiffel is tried and tested
+
+<!-- ...
+-->
+
+---
+<!--
+_class:
+ - invert
+-->
+
+# Used for a long time, often, and in production:
+
+* ## Started in Ericsson 2012
+* ## Open source since 2016
+* ## Driven by a technical committee (currently Axis and Ericsson)
+* ## Part of the Continuous Delivery Landscape
+
+---
+
+![bg contain](images/cdf-landscape-messaging.png)
+
+<!-- ...
+-->
+
+---
+
+# _What about CDEvents?_
+
+<!-- ...
+-->
+
+---
+<!--
+_class:
+ - invert
+-->
+
+# CDEvents for Eiffelers
+
+* ## Started 2021 as part of CDF (LF)
+* ## Lots of Eiffel involvement
+* ## Broader scope, more actors involved
+* ## Incubating, work in progress
+* ## Translation service for Eiffel exists.
+
+---
+
+# Because Eiffel has a large ecosystem of tools
+
+<!-- ...
+-->
