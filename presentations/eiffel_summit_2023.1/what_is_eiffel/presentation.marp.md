@@ -54,31 +54,32 @@ _class:
 
 # In this talk
 
-* ## Why does Eiffel exist?
+* ## What is the purpose of Eiffel?
 * ## What is Eiffel?
 * ## Why should I care?
 
 ---
-
 <!--
 _backgroundColor: #766
 -->
 
 ![bg contain](images/eiffel-logo.png)
 
-<!-- Let's first look into what Eiffel is. 
+<!-- Let's first look into the purpose of Eiffel. 
 -->
 
 ---
-
 # A common language
 
-<!-- Eiffel provides a common language both for technical systems and people. This common language allows both people and systems to ues the same words and concepts to refer to the same things. We will go into some of these concepts a bit later, but first I want to talk about two benefits of having a common language.
+![bg contain](images/drawings-common-language.svg)
+
+<!-- Eiffel provides a common language both for technical systems and people. This common language allows both people and systems to ues the same words and concepts to refer to the same things. We will go into details a bit later, but first I want to talk about two benefits of having a common language.
 -->
 
 ---
-
 # Observability
+
+![bg contain](images/drawings-observability.svg)
 
 <!-- The first benefit is observability. With complex software-centric systems there is often a need to have multiple tools and systems involved in the development flows, and having them all produce information in a common language makes it a lot easier to track, visualize and understand what is going in development, verification and release flows. Observability can help us answer several questions, including:
 -->
@@ -99,21 +100,88 @@ _class:
 
 
 ---
-
 # Interoperability
 
-<!-- The second benefit of a common language is interoperability, as in making different tools and systems work better together. Flows are all about making things happen, and having a commmon language makes it easier not only to 
+![bg contain](images/drawings-interoperability.svg)
+
+<!-- The second benefit of a common language is interoperability, as in making different tools and systems work better together. Flows are all about making things happen, and having a commmon language makes it easier not only to see what just happened but also to start whatever actions should come next.
 -->
 
 ---
+<!--
+_class:
+ - invert
+-->
 
+# Interoperability provides:
+
+* ## I know what just happened
+* ## I know what it happened to
+* ## I know what the outcome was
+* ## I know where to find more information
+* ## **I can decide the next action**
+
+---
+# What IS Eiffel?
+
+<!-- 
+-->
+
+---
+<!--
+_class:
+ - invert
+-->
+
+# Three aspects:
+
+* ## An event specification
+* ## A set of SDKs and tools
+* ## A community
+
+<!-- The community is what you see around you right now, plus a lot of people who couldn't be here today. The set of SDKs and tools will be covered by Mattias in the session after this, so I will focus on the first part: The event specification.
+-->
+
+---
+# A defined set of events
+
+<!-- 
+-->
+
+---
+<!--
+_class:
+ - invert
+-->
+# Event categories:
+
+<!-- 
+-->
+
+* ## Source Changes
+* ## Packaging
+* ## Verification
+* ## Deployment
+* ## Flows
+
+---
+<!--
+_class:
+ - invert
+-->
+# Event layout
+
+<!-- 
+-->
+
+
+---
 # Why should I care?
 
 <!-- ...
 -->
 
 ---
-
 # Because Eiffel is tried and tested
 
 <!-- ...
@@ -133,14 +201,12 @@ _class:
 * ## Part of the Continuous Delivery Landscape
 
 ---
-
 ![bg contain](images/cdf-landscape-messaging.png)
 
 <!-- ...
 -->
 
 ---
-
 # _What about CDEvents?_
 
 <!-- ...
@@ -161,8 +227,14 @@ _class:
 * ## Translation service for Eiffel exists.
 
 ---
+# _CDEvents session tomorrow 10.30_
 
+<!-- ...
+-->
+
+---
 # Because Eiffel has a large ecosystem of tools
 
 <!-- ...
 -->
+
