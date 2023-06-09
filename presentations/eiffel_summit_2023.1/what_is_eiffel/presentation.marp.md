@@ -124,7 +124,9 @@ _class:
 ---
 # What IS Eiffel?
 
-<!-- 
+## The Eiffel crash course :)
+
+<!-- With this section I want to give you the best opportunity I can to help you participate in the rest of the Summit. So I am going to go into a little bit of details, but I will try to focus on the parts that may come up in later sessions.
 -->
 
 ---
@@ -174,6 +176,91 @@ _class:
 <!-- 
 -->
 
+![bg contain](images/drawings-event-layout-base.svg)
+
+---
+<!--
+_class:
+ - invert
+-->
+# Event layout
+
+- ## Meta: About the event
+
+<!-- 
+-->
+
+![bg contain](images/drawings-event-layout-meta.svg)
+
+---
+<!--
+_class:
+ - invert
+-->
+# Event layout meta
+
+* ## Event type and version
+* ## Identifier (UUID)
+* ## Source
+* ## Security
+
+<!-- 
+-->
+
+![bg contain](images/drawings-event-layout-meta.svg)
+
+---
+<!--
+_class:
+ - invert
+-->
+# Event layout
+
+- ## Meta: About the event
+- ## Links: Related events
+
+<!-- 
+-->
+
+![bg contain](images/drawings-event-layout-links.svg)
+
+---
+# Links
+
+<!-- ...
+-->
+
+---
+# "Same type" / update links
+
+![bg contain](images/drawings-links-sametype.svg)
+
+<!-- ...
+-->
+
+---
+# "Different type" / association links
+
+![bg contain](images/drawings-links-differenttypes.svg)
+
+<!-- ...
+-->
+
+---
+<!--
+_class:
+ - invert
+-->
+# Event layout
+
+- ## Meta: About the message
+- ## Links: Related events
+- ## Data: About what happened
+
+<!-- 
+-->
+
+![bg contain](images/drawings-event-layout-data.svg)
 
 ---
 # Why should I care?
