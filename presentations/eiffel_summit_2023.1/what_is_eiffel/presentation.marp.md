@@ -255,12 +255,56 @@ _class:
 
 - ## Meta: About the message
 - ## Links: Related events
-- ## Data: About what happened
+- ## Data: About the entity
 
 <!-- 
 -->
 
 ![bg contain](images/drawings-event-layout-data.svg)
+
+---
+<!--
+_class:
+ - invert
+-->
+# Event data
+
+* ## Specific to event type
+* ## ActivityTriggered: Name of activity
+* ## ActivityStarted: URL to live logs
+* ## ActivityFinished: Outcome
+* ## Data + Links = Complete picture
+
+---
+<!--
+_class:
+ - invert
+-->
+# Event layout
+
+- ## Meta: About the message
+- ## Links: Related events
+- ## Data: About the entity
+- ## Custom data: Your stuff!
+
+<!-- 
+-->
+
+![bg contain](images/drawings-event-layout-customdata.svg)
+
+---
+# JSON
+
+![bg contain](images/event-json.png)
+
+<!-- ...
+-->
+
+---
+![bg contain](images/event-json.png)
+
+<!-- ...
+-->
 
 ---
 # Why should I care?
@@ -282,8 +326,8 @@ _class:
 
 # Used for a long time, often, and in production:
 
-* ## Started in Ericsson 2012
-* ## Open source since 2016
+* ## Started in Ericsson 2012 - 2.5M+ evs/day
+* ## Open source since 2016 - Active community
 * ## Driven by a technical committee (currently Axis and Ericsson)
 * ## Part of the Continuous Delivery Landscape
 
@@ -321,6 +365,19 @@ _class:
 
 ---
 # Because Eiffel has a large ecosystem of tools
+
+<!-- ...
+-->
+
+---
+# Because Eiffel continues to evolve
+
+<!-- ...
+-->
+
+---
+# Thank you!
+# Q&A
 
 <!-- ...
 -->

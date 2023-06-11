@@ -1,0 +1,24 @@
+{
+    "meta": {
+      "type": "EiffelActivityFinishedEvent",
+      "version": "3.3.0",
+      "time": 1686484125170,
+      "id": "52691e33-6778-4482-b909-2ea98d0071a9"
+    },
+    "links": [
+        {
+          "type": "ACTIVITY_EXECUTION",
+          "target": "25f4a098-5aa3-4e02-aebc-2b9518d89e63"
+        }
+    ],
+    "data": {
+      "outcome": {
+        "conclusion": "SUCCESSFUL"
+      },
+      "customData": [{"track": "AY12"}]
+    }
+  }
+
+
+
+  
