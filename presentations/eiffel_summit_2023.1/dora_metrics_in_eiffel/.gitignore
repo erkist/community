@@ -1,0 +1,8 @@
+# MARP
+
+*.html
+*.pdf
+
+# draw.io
+*.bkp
+*.dtmp

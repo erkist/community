@@ -13,31 +13,7 @@ class:
  - invert
 -->
 
-# What is Eiffel?
-
-#### And why should I care?
-
----
-# The era of small-scale software is over
-
-<!-- First, I would like to make a proclamation: The era of small-scale software is over.
-It feels like wherever you look, on your phone, on your computer, in your home, at work and in society, most software is part of a much larger system.
-
-The apps on your phone are often connected to the cloud. So are the applications on your computer. Maybe you have home-automation at home. Work can often be done just as easily outside the office as in the office. Your car might be connected 24/7 to receive updates and provide services. Government e-services are often connected together.
-
-This doesn't mean that there is no small-scale software being developed, but I would say that most of what people are excited about is not stand-alone small-scale software. It is massive systems of connected parts. It is IoT + apps + cloud + AI + a lot of other stuff.
-
-This puts a lot of weight on development processes and flows. For one, there are a lot of components that need to work together, but also there are a lot of different process that need to work together. Developing and releasing firmware for a hardware IoT device and building and deploying a performance tweak to a cloud service just ain't the same.
-
-One thing that really helps is having a common language, and that is what we will be talking about today.
--->
-
----
-# Eiffel Summit 2023.1
-
-#### What is Eiffel and why should I care?
-
-####
+# DORA metrics in Eiffel
 
 ####
 
@@ -54,39 +30,113 @@ _class:
 
 # In this talk
 
-* ## TBW
+* ## The DORA metrics
+* ## DORA metrics through Eiffel events
+
+--- 
+
+![bg contain](images/dora-logo.png)
+
+<!-- >>> Erik <<<
+
+-->
+
+--- 
+# The DORA metrics
+
+<!-- >>> Erik <<<
+
+-->
+
+---
+
+# Deployment Frequency
+
+<!-- Notes
+-->
+
+---
+
+# Deployment Frequency
+
+### How often does your organization **deploy code to production** or **release it to end users**? 
+
+<!-- For the primary application or service you work on, how often does your organization deploy code to production or release it to end users?
+-->
+
+---
+
+# Lead Time for Changes
+
+<!-- Notes
+-->
+
+---
+
+# Lead Time for Changes
+
+### How long does it take to **go from code committed** to code successfully **running in production**? 
+
+<!-- For the primary application or service you work on, what is your lead time for changes (that is, how long does it take to go from code committed to code successfully running in production)? 
+-->
+
+---
+
+# Change Failure Rate
+
+<!-- Notes
+-->
+
+---
+
+# Change Failure Rate
+
+### What **percentage of changes** to production or releases to users result in **degraded service** and subsequently require **remediation**? 
+
+<!-- For the primary application or service you work on, what percentage of changes to production or releases to users result in degraded service (for example, lead to service impairment or service outage) and subsequently require remediation (for example, require a hotfix, rollback, fix forward, patch)? 
+-->
+
+---
+
+# Time to Restore
+
+<!-- Notes
+-->
+
+---
+
+# Time to Restore
+
+### How long does it generally take to **restore service** when a service incident or a defect that **impacts users** occurs?
+
+<!-- For the primary application or service you work on, how long does it generally take to restore service when a service incident or a defect that impacts users occurs (for example, unplanned outage, service impairment)? 
+-->
 
 ---
 
 <!--
-_backgroundColor: #766
+_class:
+ - invert
 -->
 
-![bg contain](images/eiffel-logo.png)
+# DORA Metrics
 
-<!-- >>> Erik <<<
-
-Let's first look into what Eiffel is. 
--->
+- ## Deployment Frequency
+- ## Lead Time for Changes
+- ## Change Failure Rate
+- ## Time to Restore
 
 ---
 
-# A common language
+# Metrics through Eiffel
 
 <!-- Notes
 -->
 
 ---
 
-# Observability
-
-<!-- Notes
--->
+# Deployment Frequency
 
 ---
 
-# Interoperability
-
-<!-- Notes
--->
-
+![bg contain](images/drawings-deploymentfrequency-1-existingenv.svg)
