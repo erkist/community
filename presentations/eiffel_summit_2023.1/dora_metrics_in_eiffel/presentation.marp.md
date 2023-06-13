@@ -140,3 +140,132 @@ _class:
 ---
 
 ![bg contain](images/drawings-deploymentfrequency-1-existingenv.svg)
+
+---
+
+![bg contain](images/drawings-deploymentfrequency-2-newenv)
+
+---
+
+![bg contain](images/drawings-deploymentfrequency-3-events)
+
+---
+
+![bg contain](images/drawings-deploymentfrequency-4-artifactlink)
+
+---
+
+![bg contain](images/drawings-deploymentfrequency-5-callout)
+
+---
+
+# Lead Time for Changes
+
+---
+
+![bg contain](images/drawings-leadtimeforchanges-1-newchange.svg)
+
+---
+
+![bg contain](images/drawings-leadtimeforchanges-2-submitted.svg)
+
+---
+
+![bg contain](images/drawings-leadtimeforchanges-3-build.svg)
+
+---
+
+![bg contain](images/drawings-leadtimeforchanges-4-registry.svg)
+
+---
+
+![bg contain](images/drawings-leadtimeforchanges-5-deploy.svg)
+
+---
+
+![bg contain](images/drawings-leadtimeforchanges-6-callout.svg)
+
+---
+
+# Change Failure Rate
+
+---
+
+![bg contain](images/drawings-changefailurerate-1-infra.svg)
+
+---
+
+![bg contain](images/drawings-changefailurerate-2-orchestrator.svg)
+
+---
+
+![bg contain](images/drawings-changefailurerate-3-monitor.svg)
+
+---
+
+![bg contain](images/drawings-changefailurerate-4-itself.svg)
+
+---
+
+![bg contain](images/drawings-changefailurerate-5-person.svg)
+
+---
+
+![bg contain](images/drawings-changefailurerate-6-callout.svg)
+
+---
+
+# No dedicated incident event
+
+# Suggestion: AnnouncementPublished
+
+---
+
+# Time to Restore
+
+---
+
+![bg contain](images/drawings-timetorestore-1-infra.svg)
+
+---
+
+![bg contain](images/drawings-timetorestore-2-orchestrator.svg)
+
+---
+
+![bg contain](images/drawings-timetorestore-3-monitor.svg)
+
+---
+
+![bg contain](images/drawings-timetorestore-4-itself.svg)
+
+---
+
+![bg contain](images/drawings-timetorestore-5-callout.svg)
+
+---
+
+# No dedicated resolution event
+
+# Suggestion: AnnouncementPublished
+
+---
+
+<!--
+_class:
+ - invert
+-->
+
+# DORA Metrics
+
+- ## Deployment Frequency
+- ## Lead Time for Changes
+- ## Change Failure Rate
+- ## Time to Restore
+
+---
+# Thank you!
+# Q&A
+
+<!-- ...
+-->
