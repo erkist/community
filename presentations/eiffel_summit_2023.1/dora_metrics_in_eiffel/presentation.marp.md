@@ -143,19 +143,19 @@ _class:
 
 ---
 
-![bg contain](images/drawings-deploymentfrequency-2-newenv)
+![bg contain](images/drawings-deploymentfrequency-2-newenv.svg)
 
 ---
 
-![bg contain](images/drawings-deploymentfrequency-3-events)
+![bg contain](images/drawings-deploymentfrequency-3-events.svg)
 
 ---
 
-![bg contain](images/drawings-deploymentfrequency-4-artifactlink)
+![bg contain](images/drawings-deploymentfrequency-4-artifactlink.svg)
 
 ---
 
-![bg contain](images/drawings-deploymentfrequency-5-callout)
+![bg contain](images/drawings-deploymentfrequency-5-callout.svg)
 
 ---
 
@@ -262,6 +262,15 @@ _class:
 - ## Lead Time for Changes
 - ## Change Failure Rate
 - ## Time to Restore
+
+---
+
+![bg contain](images/drawings-manysenders.svg)
+
+---
+# Eiffel as the common language
+
+![bg contain](images/drawings-manysenders.svg)
 
 ---
 # Thank you!
